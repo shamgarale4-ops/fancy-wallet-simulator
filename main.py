@@ -1,5 +1,5 @@
 """
-Digital Wallet Simulator (SkyWallet Pro - Numeric Validation Fix)
+Digital Wallet Simulator (SkyWallet Pro )
 -------------------------------------------------------
 Project:     Digital Wallet Simulator
 Prepared By: Samadhan Appasaheb Garale
